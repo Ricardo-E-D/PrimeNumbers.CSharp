@@ -26,7 +26,7 @@ namespace PrimeNumbers.CSharp
             ///     1 000 000            0,036 sec.         0,076 sec.
             ///    10 000 000            0,388 sec.         0,225 sec.
             ///   100 000 000            3,616 sec.         1,208 sec.
-            /// 1 000 000 000           42,050 sec.         12,115 sec.
+            /// 1 000 000 000           35,274 sec.         9,052 sec.
         }
         public static int[] PopulateArray()
         {
